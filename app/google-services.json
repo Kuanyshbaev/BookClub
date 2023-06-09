@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608451245897",
+    "project_id": "fir-test-4c57e",
+    "storage_bucket": "fir-test-4c57e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608451245897:android:272a755c108f56707ccc98",
+        "android_client_info": {
+          "package_name": "com.example.dialogbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608451245897-34t9r4pirhi7jn6so10gk9vidg9qk460.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxL5kh3nV3OUUS8dgvU3aGRAxNpYslSZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608451245897-34t9r4pirhi7jn6so10gk9vidg9qk460.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
